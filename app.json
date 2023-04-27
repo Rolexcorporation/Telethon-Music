@@ -22,7 +22,7 @@
         "BOT_USERNAME": {
             "description": "Fill there your bot username",
             "required": false,
-            "value": "Zaid2_Robot"
+            "value": "musicorolexbot"
         },
         "ASSISTANT_ID": {
             "description": "Go To @Zaid2_Robot Pm & Type /id",
@@ -32,7 +32,7 @@
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "5797962344:AAGsPYUiPxrhNUbyIcegw2VNXP8y5GfZtYQ"
         }
 
     }
